@@ -6,7 +6,8 @@ Key takeaways from this repo are:
 - learning some basic metrics pertaining to social networks
 - visualizing social network graphs
 
-<Insert Cool Graph>
+<img width="1274" alt="Elbow_Number_Clusters" src="https://github.com/daphteh/Fortune_500_Director_Board_Network/blob/cb2f72f78fe13b0849827d851dcc2f5f5588c256/Report/Fortune_500_neighbors_graph.html">
+</details>
 
 
 # Value of social networks
