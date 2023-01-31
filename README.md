@@ -20,3 +20,7 @@ This data is proprietary & comes from Boardex. It comprises of:
 - 1,153 companies
 - 1,5367 individuals
 
+The visualizations are based on:
+- 773 nodes (companies)
+- 1,368 edges (board interlocks)
+- These board interlocks came from 5,538 corporate directors.
