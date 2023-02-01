@@ -1,19 +1,13 @@
 # Fortune_500_Director_Board_Network
 In this repo, I analyze & visualize board connections among Fortune 500 corporations.
 
-Key takeaways from this repo are:
+Key takeaways from this repo:
 - understanding the significance of social networks
 - creating social networks at different levels of analysis
 - visualizing social network graphs
 
-<div class="embed-container">
-    <iframe width="640" height="390" 
-    src="https://www.youtube.com/embed/{{ include.id }}" 
-    frameborder="0" allowfullscreen></iframe>
-</div>
+![Recording_of_graph](https://user-images.githubusercontent.com/116262236/216172387-1d0dee04-400e-4899-8adb-a3ec6197bcad.gif)
 
-                                                                            
-                                                                            
                                                                             
 
 
@@ -39,7 +33,7 @@ The visualizations are based on:
 - Code is applicable for constructing social connectons 
 
 ## Practical applicatins for the code
-1. Aggregating network data at different levels of analysis
-2. 
+1. Building inter-organizational network graphs based on individuals' actions
+2. Visualizing a large network
 
 
