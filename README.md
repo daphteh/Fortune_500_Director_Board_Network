@@ -18,7 +18,7 @@ This repo uses data on corporate board intelocks from 1998 to 2018. A board inte
 
 This data is proprietary & comes from Boardex. It comprises of:
 - 1,153 companies
-- 1,5367 individuals
+- 15,367 individuals
 
 The visualizations are based on:
 - 773 nodes (companies)
