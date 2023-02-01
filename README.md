@@ -6,8 +6,15 @@ Key takeaways from this repo are:
 - creating social networks at different levels of analysis
 - visualizing social network graphs
 
-<img width="1274" alt="Fortune 500 Companies & their Board Interlocks" src="https://github.com/daphteh/Fortune_500_Director_Board_Network/blob/cb2f72f78fe13b0849827d851dcc2f5f5588c256/Report/Fortune_500_neighbors_graph.html">
+<img width="1274" alt="Fortune 500 Companies & their Board Interlocks" src="https://github.com/daphteh/Fortune_500_Director_Board_Network/blob/cb2f72f78fe13b0849827d851dcc2f5f5588c256/Report/Fortune_500_neighbors_graph.html>
 </details>
+                                                                            
+                                                                            
+<img width="1274" alt="Main Finding" src="https://github.com/daphteh/Fortune_500_Director_Board_Network/blob/e23907f6b0b73acc1104b8d36efb7cf1b939d892/Report/Fortune_500_neighbors_graph.html">
+
+                                                                            
+                                                                            
+                                                                            
 
 
 # Value of social networks
