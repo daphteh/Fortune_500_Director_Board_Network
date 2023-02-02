@@ -9,7 +9,7 @@ Key takeaways from this repo:
 ![Recording_of_graph](https://user-images.githubusercontent.com/116262236/216172387-1d0dee04-400e-4899-8adb-a3ec6197bcad.gif)
                                                                             
 # Value of Social Networks
-Researchers think of social networks as ['pipes and prisms'](https://www.jstor.org/stable/10.1086/323038). Social networks **aka pipes** enable people & organizations to access resources & information which influence their opportunities or [limitations](https://www.jstor.org/stable/2640283) and thus their behavior. Social connections **aka prisms** also affect how they perceive the world & vice versa. Social network analysis is a sytematic way to measure constructs like status which affect an organization's [exchange partners](https://www.jstor.org/stable/2393299#metadata_info_tab_contents). 
+Researchers think of social networks as ['pipes and prisms'](https://www.jstor.org/stable/10.1086/323038). Social connections **aka pipes** enable people & organizations to access resources & information which influence their options & [limitations](https://www.jstor.org/stable/2640283). Social connections **aka prisms** also affect how they perceive the world & vice versa. Social network analysis is a sytematic way to measure constructs like status which affect an organization's [exchange partners](https://www.jstor.org/stable/2393299#metadata_info_tab_contents). 
 
 Social network analysis can be used to discern:
 - Power dynamics
@@ -21,25 +21,25 @@ Social network analysis can be used to discern:
 <summary> Social networks comprise of: nodes (these are the entities that are connected to each other) and edges (relationships between nodes) </summary>
   <br>
   <p> Examples of nodes: </p>
-  <p> companies </p>
-  <p> universities </p>
-  <p> institutions </p>
-  <p> departments within an organization</p>
-  <p> people </p>
-  <p> patents </p>
+  <p>   companies </p>
+  <p>   universities </p>
+  <p>   institutions </p>
+  <p>   departments within an organization</p>
+  <p>   people </p>
+  <p>   patents </p>
   <p> Edges can reflect characteristics like: </p>
-  <p> type of interpersonal relationships: authority, advice giving-solicitation, teacher-student, friendship, romance, familial </p>
-  <p> types of interorganizational relationships: alliances, partnership </p>
-  <p> Strength of the connections </p>
-  <p> Direction of resource flow: uni-directional / bi-directional </p>
+  <p>   type of interpersonal relationships: authority, advice giving-solicitation, teacher-student, friendship, romance, familial </p>
+  <p>   types of interorganizational relationships: alliances, partnership </p>
+  <p>   Strength of the connections </p>
+  <p>   Direction of resource flow: uni-directional / bi-directional </p>
 </details>
 
-# Practical Applications
+# Practical Applications of Social Network Analysis
 - Identifying change agents within an organization --> important for implementing new policies
 - Understanding relationships between banks and their clients
 - Discerning entities vulnerable to fraud
 - Interpreting someone's network & expertise --> useful for hiring sales people / recruiters 
-- Analyzing the patents that affect new product development
+- Analyzing the patents used in new product development
   
 # This Repo  
 ## The Data
@@ -52,7 +52,7 @@ This data is proprietary & comes from Boardex. It comprises of:
 
 ## The Code
 This is useful for:
-- Building aggregated network graphs built on individuals' actions (e.g. connections between universities & firms based on where students work post-graduation)
+- Building aggregated network graphs built on individuals' actions (e.g. another example: connections between universities & firms based on where students work post-graduation)
 - Visualizing a large network
 
 Key characteristics of the graph:
