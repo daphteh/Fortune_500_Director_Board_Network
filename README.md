@@ -52,7 +52,7 @@ This data is proprietary & comes from Boardex. It comprises of:
 
 ## The Code
 This is useful for:
-- Building aggregated network graphs built on individuals' actions (e.g. connections between universities & companies depending on where students work post-graduation)
+- Building aggregated network graphs built on individuals' actions (e.g. connections between universities & firms based on where students work post-graduation)
 - Visualizing a large network
 
 Key characteristics of the graph:
