@@ -1,4 +1,4 @@
-# Fortune_500_Director_Board_Network
+# Fortune 500 Director Board Network
 In this repo, I analyze & visualize board connections among Fortune 500 corporations.
 
 Key takeaways from this repo:
